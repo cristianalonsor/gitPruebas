@@ -11,3 +11,13 @@ h1, p {
     border: 1px solid #DDD;
     border-radius: 5px ;
 }
+
+#cabecera{
+    background: #33A;
+    box-shadow: 11px 3px 32px -6px rgba(0,0,0,0.52);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    -webkit-box-shadow: 11px 3px 32px -6px rgba(0,0,0,0.52); 
+}
