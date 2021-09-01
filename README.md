@@ -5,4 +5,4 @@ Curso que estoy revisando para perfeccionarme en esta herramienta llamada Git pa
 >- Cristian Alonso Reyes Adrían
 
 #### Readme:
-Este readme es sólo una prueba que realicé para mostrarlo al ingresar al repositorio que publiqué.
+Este readme es sólo una prueba que realicé para mostrarlo al ingresar al repositorio que publiqué..
