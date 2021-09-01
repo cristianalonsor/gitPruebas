@@ -13,11 +13,18 @@ h1, p {
 }
 
 #cabecera{
-    background: #33A;
+    background: rgb(69, 69, 97);
     box-shadow: 11px 3px 32px -6px rgba(0,0,0,0.52);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 25px;
     -webkit-box-shadow: 11px 3px 32px -6px rgba(0,0,0,0.52); 
+}
+
+#logo {
+    background-image:  10px 10px;
+    height: 5%;
+    width: 5%;
+    box-shadow: 2px 4px 10px 4px black;
 }
